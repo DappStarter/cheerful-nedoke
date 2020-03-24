@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking": false,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single"
+    }
+}
